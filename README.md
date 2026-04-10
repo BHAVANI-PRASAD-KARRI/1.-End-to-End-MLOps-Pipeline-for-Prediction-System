@@ -89,7 +89,7 @@ Developed a responsive Netflix UI clone using modern frontend technologies.
 * Responsive design
 * Interactive UI components
 * Clean layout using Flexbox/Grid
-
+* 
 ---
 
 ## 📊 GitHub Statistics
