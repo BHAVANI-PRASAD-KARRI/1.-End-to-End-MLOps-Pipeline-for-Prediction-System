@@ -14,7 +14,7 @@ A highly motivated Final Year Engineering student with a strong foundation in Ar
 ## 🎯 Career Objective
 
 To secure a challenging position in a growth-oriented organization where I can apply my skills in AI, Machine Learning, and Web Development to contribute to innovative solutions while continuously enhancing my technical expertise. 
-ans for anything you wish
+
 
 ---
 
