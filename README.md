@@ -114,7 +114,7 @@ Developed a responsive Netflix UI clone using modern frontend technologies.
 * Communication
 * Team Collaboration
 * Time Management
-
+on the point
 ---
 
 ## 📫 Contact Information
