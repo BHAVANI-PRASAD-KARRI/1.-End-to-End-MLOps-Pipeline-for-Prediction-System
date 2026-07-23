@@ -130,7 +130,7 @@ on the point
 * Open to internships and entry-level opportunities
 * Interested in AI, Machine Learning, and Web Development roles
 * Willing to learn and adapt to new technologies
-[[[[
+  
 ---
 
 ## ⭐ Acknowledgement
