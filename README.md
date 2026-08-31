@@ -2,9 +2,7 @@
 # 👋 Hello, I'm Karri Bhavani Prasad
 
 
-## 🎓 Final Year Engineering Student | Aspiring AI & Frontend Developer
-gthuie on onhe thus you tghs 
-jvnmvvnvjv
+## 🎓 Final Year Engineering Student | Aspiring AI & Frontend Developer 
 
 gfahfshtr766gb b jhhguyh jhgljyfu glyyty 5rtyued srafhdjk jugt lhggl 
 ---
