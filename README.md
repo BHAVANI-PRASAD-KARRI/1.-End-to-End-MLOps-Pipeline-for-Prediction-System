@@ -6,7 +6,7 @@
 
 ## 📌 Profile Summary
 A highly motivated Final Year Engineering student with a strong foundation in Artificial Intelligence, Machine Learning, and Frontend Development. Passionate about building scalable, user-friendly applications and solving real-world problems using data-driven approaches.
-
+it time hava on onit so which
 ---
 
 ## 🎯 Career Objective
